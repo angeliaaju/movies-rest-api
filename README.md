@@ -57,7 +57,7 @@ Please follow the steps mentioned below to host the REST API in your local:
 
       https://github.com/angeliaaju/movies-web-app.git
       
-7. A Spring Boot Batch Application is needed for processing User Reviews and update the Database with Top Rated Movies in Real-Time
+7. A Spring Boot Batch Application is needed for processing User Reviews and update the Database with Top Rated Movies in Real-Time <b>(Still in progress) </b>
 
       https://github.com/angeliaaju/movieaggregator.git
  
