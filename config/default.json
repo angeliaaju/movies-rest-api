@@ -1,0 +1,8 @@
+{
+  "port": "8080",
+  "databaseServerName": "localhost",
+  "databaseName": "movies",
+  "databaseUserId": "sa",
+  "databasePassword": "dockerStrongPwd123",
+  "jwtPrivateKey": "d8134092e2d4ca7292d33d0f8030b12b5845c5941cd5b24d2fbbc79d348ab0cf"
+}

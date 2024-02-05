@@ -1,0 +1,20 @@
+{"level":"info","message":"Login user","service":"user-service"}
+{"level":"debug","message":"select * from users where emailId='celiaaju@gmail.com' and active='Y'","service":"user-service"}
+{"level":"info","message":"Get all movies...","service":"user-service"}
+{"level":"info","message":"Get all genres...","service":"user-service"}
+{"level":"info","message":"Get all languages...","service":"user-service"}
+{"level":"info","message":"Get all genres...","service":"user-service"}
+{"level":"info","message":"Get all languages...","service":"user-service"}
+{"level":"info","message":"authenticate request..","service":"user-service"}
+{"level":"info","message":"Add Movie","service":"user-service"}
+{"level":"info","message":"Get all movies...","service":"user-service"}
+{"level":"debug","message":"Fetch Movie with id : 1","service":"user-service"}
+{"level":"info","message":"Get all movies...","service":"user-service"}
+{"level":"info","message":"Get all genres...","service":"user-service"}
+{"level":"info","message":"Get all languages...","service":"user-service"}
+{"level":"info","message":"Get all movies...","service":"user-service"}
+{"level":"info","message":"Get all genres...","service":"user-service"}
+{"level":"info","message":"Get all languages...","service":"user-service"}
+{"level":"info","message":"Get all movies...","service":"user-service"}
+{"level":"info","message":"Started Application at port 8080","service":"user-service"}
+{"level":"info","message":"Connected to Database...","service":"user-service"}
